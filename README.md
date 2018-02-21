@@ -48,7 +48,7 @@ $ ./run.sh cargo install watchexec
 
 $ ./watch.sh watchexec cargo test
     Finished dev [unoptimized + debuginfo] target(s) in 0.0 secs
-     Running target/debug/deps/my_binary-068139cf154b28dd
+     Running target/debug/deps/good_game-068139cf154b28dd
 
 running 0 tests
 
